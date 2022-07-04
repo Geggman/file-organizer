@@ -1,3 +1,2 @@
 # rust-hangman
-Hangman with rust, first project with rust.
-
+Hangman game made with Rust.
